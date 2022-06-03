@@ -1,7 +1,7 @@
 ## Olá, sou Lucas Goulart!
 
 - 🚀 Desenvolvedor Wordpress
-- ⚛️ Estudando ReactJs
+- ⚛️ Estudando ReactJs, React Native e VueJs
 - 🎓 Graduado em Publicidade e Propaganda
 
 
